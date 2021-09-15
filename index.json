@@ -1,4 +1,4 @@
-{
+[{
     "name": "Fiat Way",
     "description": "El Fiat Way es un automóvil del segmento B producido por el fabricante de automóviles italiano Fiat. Se trató de un automóvil bicuerpo que fue fabricado a lo largo de tres generaciones. La primera de ellas fue presentada en Italia en 1983 como reemplazante del Fiat 127 y se produjo allí hasta 1990. Se trató de un automóvil bicuerpo que presentaba un diseño que conjugaba líneas rectas en estilo flecha.",
     "cost": 14500,
@@ -8,7 +8,7 @@
     "images": [
         "img/prod2.jpg",
         "img/prod2_1.jpg",
-        "img/prod2_2.jpg",
+        "img/prod2_2.jpg"
     ],
     "relatedProducts": [1, 3]
-}
+}]
